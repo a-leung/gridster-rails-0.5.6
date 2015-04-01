@@ -5,3 +5,6 @@ module Gridster
     # Your code goes here...
   end
 end
+
+class Engine < ::Rails::Engine
+end
